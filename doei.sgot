@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><save><racingCategories><racingCategory><name>Standaard</name></racingCategory><racingCategory><name>Vrij</name></racingCategory></racingCategories><racers><racer><startNumber>1</startNumber><firstName>Kris</firstName><lastName>Rol</lastName><racingCategory>Standaard</racingCategory></racer></racers><manches><manche><heat>Standaard</heat><heat>Vrij</heat></manche></manches></save>
